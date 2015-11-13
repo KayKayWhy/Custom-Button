@@ -16,7 +16,6 @@ button:active {
   box-shadow: 0 2px 0 #006599;
   transform: translateY(3px);
 }
-
 /* Flip card */
 body {
   font: 600 14px/24px "Open Sans", "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", Sans-Serif;
