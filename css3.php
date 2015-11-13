@@ -10,7 +10,7 @@
     </div>
   </div>
   <div class="stage">
-  <figure class="ball"></figure>
-</div>
+    <figure class="ball"></figure>
+  </div>
 </body>
 
