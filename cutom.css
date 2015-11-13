@@ -1,3 +1,4 @@
+/* Custom button */
 button {
   border: 0;
   background: #0087cc;
@@ -16,6 +17,7 @@ button:active {
   transform: translateY(3px);
 }
 
+/* Flip card */
 body {
   font: 600 14px/24px "Open Sans", "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", Sans-Serif;
   margin: 12px 0;
